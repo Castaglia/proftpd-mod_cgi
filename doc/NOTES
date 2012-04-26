@@ -1,0 +1,26 @@
+
+CGI RFC 3875:
+  http://www.faqs.org/rfcs/rfc3875.html
+
+  Note that nothing in the RFC *requires* HTTP; it's just that that is the
+  main (only?) "information server" using the CGI.
+
+SCGI (Simple CGI Alternative):
+  http://python.ca/scgi/protocol.txt
+
+FastCGI:
+  http://en.wikipedia.org/wiki/FastCGI
+  http://test.fastcgi.com/drupal/
+
+Apache CGI tutorial:
+  http://httpd.apache.org/docs/2.2/howto/cgi.html
+  http://httpd.apache.org/docs/2.2/howto/htaccess.html
+
+Apache mod_cgi:
+  http://httpd.apache.org/docs/2.2/mod/mod_cgi.html
+
+Apache mod_cgid:
+  http://httpd.apache.org/docs/2.2/mod/mod_cgid.html
+
+Apache mod_fcgid:
+  http://httpd.apache.org/mod_fcgid/ 

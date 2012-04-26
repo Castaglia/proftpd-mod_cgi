@@ -1,0 +1,4 @@
+The mod_cgid module for ProFTPD provides for execution of CGI scripts using
+an external CGI daemon.
+
+For further module documentation, see mod_cgid.html.
